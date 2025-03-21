@@ -3,7 +3,8 @@
 Project: Exploratory Data Analysis on a Dataset
 
 # Skills Covered: Pandas, Matplotlib, Seaborn
-# Dataset: Titanic dataset (sns.load_dataset('titanic')) or any dataset from Kaggle
+# Dataset: 
+Titanic dataset (sns.load_dataset('titanic') from seaborn 
 # Tasks:
 Load and clean the data
 Perform basic statistics (mean, median, mode)
